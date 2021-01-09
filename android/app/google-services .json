@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275700077567",
+    "project_id": "safepay-ba93c",
+    "storage_bucket": "safepay-ba93c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275700077567:android:d53269ecbe48140c368dca",
+        "android_client_info": {
+          "package_name": "com.example.safepay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275700077567-tehd4ugh5clbo7fokje2otgitds3ce62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safepay",
+            "certificate_hash": "9d66f6d5e5739f6f69e940065b1a5078fe98eae9"
+          }
+        },
+        {
+          "client_id": "275700077567-4845bbgdbhgakabdijj5pa9hs8jomlsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMl350Mhz1LMCfenG61d8x-D3opTVyJNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275700077567-4845bbgdbhgakabdijj5pa9hs8jomlsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
